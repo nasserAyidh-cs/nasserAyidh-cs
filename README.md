@@ -46,3 +46,52 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-526477?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Global AI/ML Salary Analysis
+
+An end-to-end data analytics project analyzing 151,445 salary records across 422 job titles from 2020 to 2025, with an interactive Power BI dashboard.
+
+**Tech Stack:** Python, Pandas, SQL, MySQL, Power BI
+
+### ⚙️ AI-Powered Tech News & Opportunities Automation
+
+An automated system that collects, filters, classifies, and summarizes technology news and opportunities from multiple sources, stores the results in Google Sheets, and delivers them through Telegram.
+
+**Tech Stack:** n8n, APIs, AI, Google Sheets, Telegram
+
+### 👁️ Attendance Counter
+
+**Status:** In Progress
+
+A computer vision project aimed at estimating attendance from images using head detection and deep learning techniques.
+
+**Tech Stack:** Python, PyTorch, Computer Vision
+
+### 🤖 Applied Natural Language Processing — Bayan
+
+Hands-on Arabic NLP projects and labs completed during the Bayan program at SDAIA Academy, covering text preprocessing, language models, and semantic search.
+
+**Tech Stack:** Python, NLP, Transformers, Hugging Face
+
+---
+
+## 🏅 Certifications & Training
+
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- NVIDIA Certified Associate – Accelerated Data Science (NCA-ADS)
+
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+- IBM Data Science Professional Certificate
+
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-F65C5C?style=for-the-badge)
+- Machine Learning Specialization – Stanford Online & DeepLearning.AI
+
+![SDAIA](https://img.shields.io/badge/SDAIA-008C95?style=for-the-badge)
+- Applied Natural Language Processing – Bayan Program
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+- AWS AI Practitioner – Training Program
